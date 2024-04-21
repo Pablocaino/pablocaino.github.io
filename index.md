@@ -2,10 +2,15 @@
 
 ---
 
-### Exploring the Unknown: UFO Sightings Through the Century
+### [Exploring the Unknown: UFO Sightings Through the Century]
 
-[Exploring the Unknown: UFO Sightings Through the Century is a data science project designed to delve into the analysis and visualization of UFO sightings reported over the last century, both in the United States and globally](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Exploring the Unknown: UFO Sightings Through the Century is a data science project designed to delve into the analysis and visualization of UFO sightings reported over the last century, both in the United States and globally(/sample_page)
+
+Figure 1.
+<img src="images/Ufo Shape.jpg?raw=true"/>
+
+Figure 2.
+<img src="images/Wordcloud.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
