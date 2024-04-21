@@ -11,7 +11,9 @@ Figure 1. UFOs shape in percetajes
 Figure 2. Sightings descriptions WordMap
 <img src="images/Wordcloud.jpg?raw=true"/>
 
-View code in Streamlit
+# View code in Streamlit
+
+
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
