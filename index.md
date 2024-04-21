@@ -5,10 +5,10 @@
 
 Exploring the Unknown: UFO Sightings Through the Century is a data science project designed to delve into the analysis and visualization of UFO sightings reported over the last century, both in the United States and globally
 
-Figure 1.
+Figure 1. UFOs shape in percetajes
 <img src="images/Ufo Shape.jpg?raw=true"/>
 
-Figure 2.
+Figure 2. Sightings descriptions WordMap
 <img src="images/Wordcloud.jpg?raw=true"/>
 
 View code in Streamlit
