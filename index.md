@@ -1,4 +1,4 @@
-## Portfolio
+# Portfolio
 
 ---
 ### [Exploring the Unknown: UFO Sightings Through the Century]
@@ -11,7 +11,7 @@ Figure 1. UFOs shape in percetajes
 Figure 2. Sightings descriptions WordMap
 <img src="images/Wordcloud.jpg?raw=true"/>
 
-# View code in Streamlit
+#### View code in Streamlit
 
 
 ---
