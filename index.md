@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Exploring the Unknown: UFO Sightings Through the Century
 
-[Project 1 Title](/sample_page)
+[Exploring the Unknown: UFO Sightings Through the Century is a data science project designed to delve into the analysis and visualization of UFO sightings reported over the last century, both in the United States and globally](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
